@@ -48,12 +48,11 @@ The unbalanced model looked more accurate but caught almost none of the employee
 ## Repository Contents
 
 ```
-├── HR_Attrition_Workbook.xlsx      # Full Excel analysis (cleaning, pivot tables, cost model, what-if scenario)
-├── attrition_model.ipynb           # Python notebook: logistic regression model & risk scoring
-├── attrition_risk_scores.csv       # Exported per-employee attrition probability scores
-├── HR_Attrition_Analysis.pptx      # Final report deck (Pyramid Principles structure)
+├── IBMHR-Employee-Attritionanalysis (4).xlsx   # Full Excel analysis (cleaning, pivot tables, cost model, what-if scenario)
+├── Untitled1.ipynb                              # Python notebook: logistic regression model & risk scoring
+├── attrition_risk_scores.csv                    # Exported per-employee attrition probability scores
+├── HR_Attrition_Analysis (2).pptx                # Final report deck (Pyramid Principles structure)
 └── README.md
-```
 
 ## Recommendations
 
