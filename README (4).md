@@ -70,4 +70,4 @@ The unbalanced model looked more accurate but caught almost none of the employee
 ## Author
 
 Shifana Thasni
-[GitHub](https://github.com/Shifana-Thasni) · [Kaggle](https://www.kaggle.com/Shifana-Thasni)
+[GitHub](https://github.com/Shifana-Thasni)
